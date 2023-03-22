@@ -1,0 +1,172 @@
+[
+ {
+  "sido_id": 11,
+  "gubun": "서울",
+  "deathCnt": 5865,
+  "incDec": 16372,
+  "qurRate": 56342,
+  "defCnt": 5357808,
+  "overFlowCnt": 1,
+  "localOccCnt": 16371
+ },
+ {
+  "sido_id": 26,
+  "gubun": "부산",
+  "deathCnt": 2597,
+  "incDec": 4856,
+  "qurRate": 48000,
+  "defCnt": 1608178,
+  "overFlowCnt": 5,
+  "localOccCnt": 4851
+ },
+ {
+  "sido_id": 27,
+  "gubun": "대구",
+  "deathCnt": 1776,
+  "incDec": 3760,
+  "qurRate": 50274,
+  "defCnt": 1199251,
+  "overFlowCnt": 6,
+  "localOccCnt": 3754
+ },
+ {
+  "sido_id": 28,
+  "gubun": "인천",
+  "deathCnt": 1658,
+  "incDec": 4517,
+  "qurRate": 53810,
+  "defCnt": 1586533,
+  "overFlowCnt": 8,
+  "localOccCnt": 4509
+ },
+ {
+  "sido_id": 29,
+  "gubun": "광주",
+  "deathCnt": 745,
+  "incDec": 2020,
+  "qurRate": 55465,
+  "defCnt": 799589,
+  "overFlowCnt": 1,
+  "localOccCnt": 2019
+ },
+ {
+  "sido_id": 30,
+  "gubun": "대전",
+  "deathCnt": 846,
+  "incDec": 2588,
+  "qurRate": 55168,
+  "defCnt": 801185,
+  "overFlowCnt": 0,
+  "localOccCnt": 2588
+ },
+ {
+  "sido_id": 31,
+  "gubun": "울산",
+  "deathCnt": 469,
+  "incDec": 1330,
+  "qurRate": 51850,
+  "defCnt": 581546,
+  "overFlowCnt": 2,
+  "localOccCnt": 1328
+ },
+ {
+  "sido_id": 36,
+  "gubun": "세종",
+  "deathCnt": 49,
+  "incDec": 640,
+  "qurRate": 58190,
+  "defCnt": 216404,
+  "overFlowCnt": 0,
+  "localOccCnt": 640
+ },
+ {
+  "sido_id": 41,
+  "gubun": "경기",
+  "deathCnt": 7689,
+  "incDec": 22132,
+  "qurRate": 54629,
+  "defCnt": 7410626,
+  "overFlowCnt": 6,
+  "localOccCnt": 22126
+ },
+ {
+  "sido_id": 42,
+  "gubun": "강원",
+  "deathCnt": 1167,
+  "incDec": 2021,
+  "qurRate": 53034,
+  "defCnt": 815920,
+  "overFlowCnt": 1,
+  "localOccCnt": 2020
+ },
+ {
+  "sido_id": 43,
+  "gubun": "충북",
+  "deathCnt": 924,
+  "incDec": 2058,
+  "qurRate": 53925,
+  "defCnt": 861415,
+  "overFlowCnt": 2,
+  "localOccCnt": 2056
+ },
+ {
+  "sido_id": 44,
+  "gubun": "충남",
+  "deathCnt": 1388,
+  "incDec": 3167,
+  "qurRate": 52135,
+  "defCnt": 1104884,
+  "overFlowCnt": 0,
+  "localOccCnt": 3167
+ },
+ {
+  "sido_id": 45,
+  "gubun": "전북",
+  "deathCnt": 1092,
+  "incDec": 2315,
+  "qurRate": 51560,
+  "defCnt": 921295,
+  "overFlowCnt": 2,
+  "localOccCnt": 2313
+ },
+ {
+  "sido_id": 46,
+  "gubun": "전남",
+  "deathCnt": 782,
+  "incDec": 2469,
+  "qurRate": 48723,
+  "defCnt": 892995,
+  "overFlowCnt": 1,
+  "localOccCnt": 2468
+ },
+ {
+  "sido_id": 47,
+  "gubun": "경북",
+  "deathCnt": 1871,
+  "incDec": 2740,
+  "qurRate": 47816,
+  "defCnt": 1255935,
+  "overFlowCnt": 5,
+  "localOccCnt": 2735
+ },
+ {
+  "sido_id": 48,
+  "gubun": "경남",
+  "deathCnt": 1632,
+  "incDec": 4215,
+  "qurRate": 49142,
+  "defCnt": 1628656,
+  "overFlowCnt": 3,
+  "localOccCnt": 4212
+ },
+ {
+  "sido_id": 50,
+  "gubun": "제주",
+  "deathCnt": 227,
+  "incDec": 363,
+  "qurRate": 51835,
+  "defCnt": 350796,
+  "overFlowCnt": 0,
+  "localOccCnt": 363
+ }
+]
